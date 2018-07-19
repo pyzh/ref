@@ -6,6 +6,8 @@ https://github.com/shell909090/shell909090.github.io/blob/4ba1274a1d3c4f30ccda7a
 
 else: https://github.com/shell909090/learn-python/issues/2
 
+> PS：笨办法学python不推荐，水分大，太浪费时间
+
 # python入门指引 
 
 Nov 19, 2012
