@@ -1,6 +1,6 @@
 [file](python编程艺术-沈崴.pdf): https://github.com/pyzh/ref/blob/master/main.py/cn/eishn/python编程艺术-沈崴.pdf
 
-传播比较多的应该是通过 @shell909090 的 [python入门指引](https://github.com/pyzh/ref/blob/master/main.py/cn/shell909090/python入门指引.md) 一文最后提到过这个事情。
+传播比较多的应该是通过 [@shell909090](https://github.com/pyzh/ref/tree/master/main.py/cn/shell909090) 的 [python入门指引](https://github.com/pyzh/ref/blob/master/main.py/cn/shell909090/python入门指引.md) 一文最后提到过这个事情。
 
 >首先，你应当去看沈游侠在某次cpug聚会上的讲话Python编程艺术，这是python程序员进阶的必读。
 >不过很可惜，slide是高桥流的，本身不是为了让你看内容而出的。而当时的演讲又没有录像
